@@ -1,4 +1,4 @@
-Program ini untuk mengambil biodata berdasarkan nomor absen menggunakan bahasa Golang.
+Program ini untuk mengambil data biodata berdasarkan nomor absen menggunakan bahasa Golang.
 Terdapat 8 biodata dengan nomor absen 1 sampai 8. 
 Biodata tersebut terdiri dari Nama, Alamat, Pekerjaan, dan Alasan memilih kelas Golang.
 untuk menjalankan programnya, masukan perintah: 
